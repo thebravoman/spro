@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.name        = "spro"
   spec.version     = Spro::VERSION
   spec.authors     = [""]
-  spec.email       = ["k.mitov@robopartans.com"]
+  spec.email       = ["example@example.com"]
   spec.homepage    = "https://www.fllcasts.com"
   spec.summary     = "Summary of Spro."
   spec.description = "Description of Spro."
